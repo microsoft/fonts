@@ -4,5 +4,5 @@ This is a central location to share Microsoft's open source fonts. These fonts a
 * Selawik - a text font as a fallback to Microsoft's Segoe UI typeface
 
 # Projects using these fonts:
-[Winstrap](https://github.com/winjs/winstrap)
-[WinJS](https://github.com/winjs/winjs)
+* [Winstrap](https://github.com/winjs/winstrap)
+* [WinJS](https://github.com/winjs/winjs)
