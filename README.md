@@ -6,3 +6,7 @@ This is a central location to share Microsoft's open source fonts. These fonts a
 # Projects using these fonts:
 * [Winstrap](https://github.com/winjs/winstrap)
 * [WinJS](https://github.com/winjs/winjs)
+
+# Known open issues:
+Selawik is missing kerning to match Segoe UI. 
+Selawik needs improved hinting. 
